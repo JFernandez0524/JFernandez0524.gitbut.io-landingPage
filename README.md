@@ -41,4 +41,7 @@ MIT License
 ---
 
 https://jfernandez0524.github.io/landingPage/
+<<<<<<< HEAD
 .
+=======
+>>>>>>> origin/main
